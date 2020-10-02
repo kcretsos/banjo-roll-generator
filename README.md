@@ -27,7 +27,7 @@ Strings Key:
 
 1 = 1st string
 ************************
-To get started I installed Python 3.7 Anaconda with Spyder IDE. Place your files in the Spyder directory. For example, in Windows: C:\Users\myName\.spyder-py3\
+To get started I installed Python 3.7 Anaconda with Spyder IDE. Place your files in the Spyder directory. For example, in Windows: C:\Users\myName\ .spyder-py3\
 
 To open and edit the JSON files with different combinations, you can use Notepad++
 ************************
