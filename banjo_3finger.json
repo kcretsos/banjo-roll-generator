@@ -1,0 +1,64 @@
+{
+    "rolls": {
+        "1": {
+            "id": "1",
+            "fingers": "TIM",
+			"style": "Thumb Forward [3]"
+        },
+        "2": {
+            "id": "2",
+            "fingers": "TIT",
+			"style": "Thumb Index Thumb [3]"
+        },
+        "3": {
+            "id": "3",
+            "fingers": "TMI",
+			"style": "Thumb Reverse [3]"
+        },
+        "4": {
+            "id": "4",
+            "fingers": "TMT",
+			"style": "Thumb Middle Thumb [3]"
+        },
+        "5": {
+            "id": "5",
+            "fingers": "IMT",
+			"style": "Index Forward [3]"
+        },
+        "6": {
+            "id": "6",
+            "fingers": "IMI",
+			"style": "Index Middle Index"
+        },
+        "7": {
+            "id": "7",
+            "fingers": "ITM",
+			"style": "Index Reverse [3]"
+        },
+        "8": {
+            "id": "8",
+            "fingers": "ITI",
+			"style": "Index Thumb Index"
+        },
+        "9": {
+            "id": "9",
+            "fingers": "MTI",
+			"style": "Middle Forward [3]"
+        },
+        "10": {
+            "id": "10",
+            "fingers": "MTM",
+			"style": "Middle Thumb Middle"
+        },
+        "11": {
+            "id": "11",
+            "fingers": "MIT",
+			"style": "Middle Reverse [3]"
+        },
+        "12": {
+            "id": "12",
+            "fingers": "MIM",
+			"style": "Middle Index Middle"
+        }
+    }
+}

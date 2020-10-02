@@ -1,0 +1,19 @@
+{
+    "rolls": {
+        "1": {
+            "id": "1",
+            "fingers": "T",
+			"style": "Thumb"
+        },
+        "2": {
+            "id": "2",
+            "fingers": "I",
+			"style": "Index"
+        },
+        "3": {
+            "id": "3",
+            "fingers": "M",
+			"style": "Middle"
+        }
+    }
+}

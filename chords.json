@@ -1,0 +1,508 @@
+{
+    "key": {
+        "1": {
+            "id": "1",
+            "scale": "C major",
+            "notes": "C E G",
+            "type": "major"
+        },
+        "2": {
+            "id": "2",
+            "scale": "C# major",
+            "notes": "C# E# G#",
+            "type": "major"
+        },
+        "3": {
+            "id": "3",
+            "scale": "D major",
+            "notes": "D F# A",
+            "type": "major"
+        },
+        "4": {
+            "id": "4",
+            "scale": "D# major",
+            "notes": "D# G A#",
+            "type": "major"
+        },
+        "5": {
+            "id": "5",
+            "scale": "E major",
+            "notes": "E G# B",
+            "type": "major"
+        },
+        "6": {
+            "id": "6",
+            "scale": "F major",
+            "notes": "F A C",
+            "type": "major"
+        },
+        "7": {
+            "id": "7",
+            "scale": "F# major",
+            "notes": "F# A# C#",
+            "type": "major"
+        },
+        "8": {
+            "id": "8",
+            "scale": "G major",
+            "notes": "G B D",
+            "type": "major"
+        },
+        "9": {
+            "id": "9",
+            "scale": "G# major",
+            "notes": "Ab C D#",
+            "type": "major"
+        },
+        "10": {
+            "id": "10",
+            "scale": "A major",
+            "notes": "A C# E",
+            "type": "major"
+        },
+        "11": {
+            "id": "11",
+            "scale": "A# major",
+            "notes": "A# D F",
+            "type": "major"
+        },
+        "12": {
+            "id": "12",
+            "scale": "B major",
+            "notes": "B D# F#",
+            "type": "major"
+        },
+        "13": {
+            "id": "13",
+            "scale": "C minor",
+            "notes": "C D# G",
+            "type": "minor"
+        },
+        "14": {
+            "id": "14",
+            "scale": "C# minor",
+            "notes": "C# E G#",
+            "type": "minor"
+        },
+        "15": {
+            "id": "15",
+            "scale": "D minor",
+            "notes": "D F A",
+            "type": "minor"
+        },
+        "16": {
+            "id": "16",
+            "scale": "D# minor",
+            "notes": "D# F# A#",
+            "type": "minor"
+        },
+        "17": {
+            "id": "17",
+            "scale": "E minor",
+            "notes": "E G B",
+            "type": "minor"
+        },
+        "18": {
+            "id": "18",
+            "scale": "F minor",
+            "notes": "F G# C",
+            "type": "minor"
+        },
+        "19": {
+            "id": "19",
+            "scale": "F# minor",
+            "notes": "F# A C#",
+            "type": "minor"
+        },
+        "20": {
+            "id": "20",
+            "scale": "G minor",
+            "notes": "G A# D",
+            "type": "minor"
+        },
+        "21": {
+            "id": "21",
+            "scale": "G# minor",
+            "notes": "G# B D#",
+            "type": "minor"
+        },
+        "22": {
+            "id": "22",
+            "scale": "A minor",
+            "notes": "A C E",
+            "type": "minor"
+        },
+        "23": {
+            "id": "23",
+            "scale": "A# minor",
+            "notes": "A# C# F",
+            "type": "minor"
+        },
+        "24": {
+            "id": "24",
+            "scale": "B minor",
+            "notes": "B D F#",
+            "type": "minor"
+        },
+        "25": {
+            "id": "25",
+            "scale": "C dim",
+            "notes": "C D# F#",
+            "type": "diminished"
+        },
+        "26": {
+            "id": "26",
+            "scale": "C# dim",
+            "notes": "C# E G",
+            "type": "diminished"
+        },
+        "27": {
+            "id": "27",
+            "scale": "D dim",
+            "notes": "D F G#",
+            "type": "diminished"
+        },
+        "28": {
+            "id": "28",
+            "scale": "D# dim",
+            "notes": "D# F# A",
+            "type": "diminished"
+        },
+        "29": {
+            "id": "29",
+            "scale": "E dim",
+            "notes": "E G A#",
+            "type": "diminished"
+        },
+        "30": {
+            "id": "30",
+            "scale": "F dim",
+            "notes": "F G# B",
+            "type": "diminished"
+        },
+        "31": {
+            "id": "31",
+            "scale": "F# dim",
+            "notes": "F# A C",
+            "type": "diminished"
+        },
+        "32": {
+            "id": "32",
+            "scale": "G dim",
+            "notes": "G A# C#",
+            "type": "diminished"
+        },
+        "33": {
+            "id": "33",
+            "scale": "G# dim",
+            "notes": "G# B D",
+            "type": "diminished"
+        },
+        "34": {
+            "id": "34",
+            "scale": "A dim",
+            "notes": "A C D#",
+            "type": "diminished"
+        },
+        "35": {
+            "id": "35",
+            "scale": "A# dim",
+            "notes": "A# C# E",
+            "type": "diminished"
+        },
+        "36": {
+            "id": "36",
+            "scale": "B dim",
+            "notes": "B D F",
+            "type": "diminished"
+        },
+        "37": {
+            "id": "37",
+            "scale": "C major 7th",
+            "notes": "C E G B",
+            "type": "major 7th"
+        },
+        "38": {
+            "id": "38",
+            "scale": "C# major 7th",
+            "notes": "C# F G# C",
+            "type": "major 7th"
+        },
+        "39": {
+            "id": "39",
+            "scale": "D major 7th",
+            "notes": "D F# A C#",
+            "type": "major 7th"
+        },
+        "40": {
+            "id": "40",
+            "scale": "D# major 7th",
+            "notes": "D# G A# D",
+            "type": "major 7th"
+        },
+        "41": {
+            "id": "41",
+            "scale": "E major 7th",
+            "notes": "E G# B D#",
+            "type": "major 7th"
+        },
+        "42": {
+            "id": "42",
+            "scale": "F major 7th",
+            "notes": "F A C E",
+            "type": "major 7th"
+        },
+        "43": {
+            "id": "43",
+            "scale": "F# major 7th",
+            "notes": "F# A# C# F",
+            "type": "major 7th"
+        },
+        "44": {
+            "id": "44",
+            "scale": "G major 7th",
+            "notes": "G B D F#",
+            "type": "major 7th"
+        },
+        "45": {
+            "id": "45",
+            "scale": "G# major 7th",
+            "notes": "G# C D# G",
+            "type": "major 7th"
+        },
+        "46": {
+            "id": "46",
+            "scale": "A major 7th",
+            "notes": "A C# E G#",
+            "type": "major 7th"
+        },
+        "47": {
+            "id": "47",
+            "scale": "A# major 7th",
+            "notes": "A# D F A",
+            "type": "major 7th"
+        },
+        "48": {
+            "id": "48",
+            "scale": "B major 7th",
+            "notes": "B D# F# A#",
+            "type": "major 7th"
+        },
+        "49": {
+            "id": "49",
+            "scale": "C dominant 7th",
+            "notes": "C E G A#",
+            "type": "dominant 7th"
+        },
+        "50": {
+            "id": "50",
+            "scale": "C# dominant 7th",
+            "notes": "C# F G# B",
+            "type": "dominant 7th"
+        },
+        "51": {
+            "id": "51",
+            "scale": "D dominant 7th",
+            "notes": "D F# A C",
+            "type": "dominant 7th"
+        },
+        "52": {
+            "id": "52",
+            "scale": "D# dominant 7th",
+            "notes": "D# G A# C#",
+            "type": "dominant 7th"
+        },
+        "53": {
+            "id": "53",
+            "scale": "E dominant 7th",
+            "notes": "E G# B D",
+            "type": "dominant 7th"
+        },
+        "54": {
+            "id": "54",
+            "scale": "F dominant 7th",
+            "notes": "F A C Eb",
+            "type": "dominant 7th"
+        },
+        "55": {
+            "id": "55",
+            "scale": "F# dominant 7th",
+            "notes": "F# A# C# E",
+            "type": "dominant 7th"
+        },
+        "56": {
+            "id": "56",
+            "scale": "G dominant 7th",
+            "notes": "G B D F",
+            "type": "dominant 7th"
+        },
+        "57": {
+            "id": "57",
+            "scale": "G# dominant 7th",
+            "notes": "G# C D# F#",
+            "type": "dominant 7th"
+        },
+        "58": {
+            "id": "58",
+            "scale": "A dominant 7th",
+            "notes": "A C# E G",
+            "type": "dominant 7th"
+        },
+        "59": {
+            "id": "59",
+            "scale": "A# dominant 7th",
+            "notes": "A# D F G#",
+            "type": "dominant 7th"
+        },
+        "60": {
+            "id": "60",
+            "scale": "B dominant 7th",
+            "notes": "B D# F# A",
+            "type": "dominant 7th"
+        },
+        "61": {
+            "id": "61",
+            "scale": "C minor 7th",
+            "notes": "C D# G A#",
+            "type": "minor 7th"
+        },
+        "62": {
+            "id": "62",
+            "scale": "C# minor 7th",
+            "notes": "C# E G# B",
+            "type": "minor 7th"
+        },
+        "63": {
+            "id": "63",
+            "scale": "D minor 7th",
+            "notes": "D F A C",
+            "type": "minor 7th"
+        },
+        "64": {
+            "id": "64",
+            "scale": "D# minor 7th",
+            "notes": "D# F# A# C#",
+            "type": "minor 7th"
+        },
+        "65": {
+            "id": "65",
+            "scale": "E minor 7th",
+            "notes": "E G B D",
+            "type": "minor 7th"
+        },
+        "66": {
+            "id": "66",
+            "scale": "F minor 7th",
+            "notes": "F G# C D#",
+            "type": "minor 7th"
+        },
+        "67": {
+            "id": "67",
+            "scale": "F# minor 7th",
+            "notes": "F# A C# E",
+            "type": "minor 7th"
+        },
+        "68": {
+            "id": "68",
+            "scale": "G minor 7th",
+            "notes": "G A# D F",
+            "type": "minor 7th"
+        },
+        "69": {
+            "id": "69",
+            "scale": "Ab minor 7th",
+            "notes": "G# B D# F#",
+            "type": "minor 7th"
+        },
+        "70": {
+            "id": "70",
+            "scale": "A minor 7th",
+            "notes": "A C E G",
+            "type": "minor 7th"
+        },
+        "71": {
+            "id": "71",
+            "scale": "A# minor 7th",
+            "notes": "A# C# F G#",
+            "type": "minor 7th"
+        },
+        "72": {
+            "id": "72",
+            "scale": "B minor 7th",
+            "notes": "B D F# A",
+            "type": "minor 7th"
+        },
+        "73": {
+            "id": "73",
+            "scale": "C minor 7th flat five",
+            "notes": "C D# F# A#",
+            "type": "minor 7th flat five"
+        },
+        "74": {
+            "id": "74",
+            "scale": "C# minor 7th flat five",
+            "notes": "C# E G B",
+            "type": "minor 7th flat five"
+        },
+        "75": {
+            "id": "75",
+            "scale": "D minor 7th flat five",
+            "notes": "D F G# C",
+            "type": "minor 7th flat five"
+        },
+        "76": {
+            "id": "76",
+            "scale": "D# minor 7th flat five",
+            "notes": "D# F# A C#",
+            "type": "minor 7th flat five"
+        },
+        "77": {
+            "id": "77",
+            "scale": "E minor 7th flat five",
+            "notes": "E G A# D",
+            "type": "minor 7th flat five"
+        },
+        "78": {
+            "id": "78",
+            "scale": "F minor 7th flat five",
+            "notes": "F G# B D#",
+            "type": "minor 7th flat five"
+        },
+        "79": {
+            "id": "79",
+            "scale": "F# minor 7th flat five",
+            "notes": "F# A C E",
+            "type": "minor 7th flat five"
+        },
+        "80": {
+            "id": "80",
+            "scale": "G minor 7th flat five",
+            "notes": "G A# C# F",
+            "type": "minor 7th flat five"
+        },
+        "81": {
+            "id": "81",
+            "scale": "G# minor 7th flat five",
+            "notes": "G# B D F#",
+            "type": "minor 7th flat five"
+        },
+        "82": {
+            "id": "82",
+            "scale": "A minor 7th flat five",
+            "notes": "A C D# G",
+            "type": "minor 7th flat five"
+        },
+        "83": {
+            "id": "83",
+            "scale": "A# minor 7th flat five",
+            "notes": "A# C# E G#",
+            "type": "minor 7th flat five"
+        },
+        "84": {
+            "id": "84",
+            "scale": "B minor 7th flat five",
+            "notes": "B D F A",
+            "type": "minor 7th flat five"
+        }
+    }
+}

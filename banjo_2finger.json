@@ -1,0 +1,34 @@
+{
+    "rolls": {
+        "1": {
+            "id": "1",
+            "fingers": "TI",
+			"style": "Thumb Index"
+        },
+        "2": {
+            "id": "2",
+            "fingers": "TM",
+			"style": "Thumb Middle"
+        },
+        "3": {
+            "id": "3",
+            "fingers": "IM",
+			"style": "Index Middle"
+        },
+        "4": {
+            "id": "4",
+            "fingers": "IT",
+			"style": "Index Thumb"
+        },
+        "5": {
+            "id": "5",
+            "fingers": "MT",
+			"style": "Middle Thumb"
+        },
+        "6": {
+            "id": "6",
+            "fingers": "MI",
+			"style": "Middle Index"
+        }
+    }
+}
