@@ -44,7 +44,7 @@ def main():
             limit = len(json_roll['rolls'])
             r = getRandom(limit) # get random roll
             style, roll, strings = getRoll(json_roll, r) #load roll
-            chord = getChord(json_chords) #load chord
+            chord, notes = getChord(json_chords) #load chord
             
             #check 1st roll
             if (((x+1) % 2) == 1):
@@ -93,7 +93,7 @@ def main():
                 print (f'\tsequences: {fingersLength}')
                 print(f'\tfingers: {f1}-{f2}')
                 print(f'\tstrings: {s1}-{s2}')
-                print(f'\tchord: {chord}')
+                print(f'\tchord: {chord} ({notes})')
                 print ("\n") 
 
         #detect error for not loading JSON
@@ -226,8 +226,9 @@ def getJSON():
 def getChord(json_chords):
     limit = len(json_chords['key'])
     c = getRandom(limit) # get random chord
-    chord = json_chords["key"][c]["scale"]
-    return chord       
+    chord = json_chords['key'][c]['scale']
+    notes = json_chords['key'][c]['notes']
+    return chord, notes       
         
 if __name__ == '__main__':
     main()
