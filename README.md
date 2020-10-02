@@ -5,7 +5,7 @@ kjcretsos@gmail.com
 
 10-02-2020
 ************************
-This program generates a random 5 string banjo roll from JSON files. Rolls can range from 1, 2, 3, or 4 finger combos. The program also randomizes string patterns (T = 2-5, I = 2-3, M = 1). Rules: no two fingers will repeat sequentially (ie. end of roll #1 (x) to start of roll #2 (x+1)). If start of current finger sequence does not equal end of previous sequence, print the roll. Otherwise search for another sequence until the above condition is met. Repeat as many rolls as needed with the loop variable.
+This python program generates a random 5 string banjo roll from JSON files. Rolls can range from 1, 2, 3, or 4 finger combos. The program also randomizes string patterns (T = 2-5, I = 2-3, M = 1). Rules: no two fingers will repeat sequentially (ie. end of roll #1 (x) to start of roll #2 (x+1)). If start of current finger sequence does not equal end of previous sequence, print the roll. Otherwise search for another sequence until the above condition is met. Repeat as many rolls as needed with the loop variable.
 ************************
 Fingers Key:
 
