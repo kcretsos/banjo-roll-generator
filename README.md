@@ -1,6 +1,7 @@
 # banjo-roll-generator
 Created by Kevin Cretsos
 kjcretsos@gmail.com
+10-02-2020
 ************************
 This program generates a random 5 string banjo roll from JSON files
 Rolls can range from 1, 2, 3, or 4 finger combos
