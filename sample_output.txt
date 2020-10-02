@@ -1,0 +1,22 @@
+* Banjo Roll # 1
+Thumb Forward [3] - Index Middle (Alt Middle)
+        sequences: 7
+        fingers: TIM-IMTM
+        strings: 321-2141
+        chord: C dominant 7th
+
+
+* Banjo Roll # 2
+Thumb Reverse [4] - Middle Thumb
+        sequences: 6
+        fingers: TMIT-MT
+        strings: 3134-13
+        chord: G# dim
+
+
+* Banjo Roll # 3
+Middle Reverse [4] - Index Thumb (Alt Thumb)
+        sequences: 8
+        fingers: MITM-ITMT
+        strings: 1341-3415
+        chord: E minor
